@@ -10,7 +10,7 @@ Activate your Lowe’s Advantage Card in minutes! Visit `lowes.syf.com/activate 
 
 .. image:: Button.png
    :alt: lowes.syf.com/activate
-   :target: #
+   :target: https://fm.ci/?aHR0cHM6Ly9sb3dlc2NhcmRoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 
 .. raw:: html
