@@ -1,6 +1,6 @@
-===============================
-Activate Your Lowe’s Advantage Card
-===============================
+======================
+Lowes.syf.com/activate
+======================
 
 Activate your Lowe’s Advantage Card in minutes! Visit `lowes.syf.com/activate <https://lowes.syf.com/activate>`_ to enter your card details, verify your account, and start shopping today. Follow our step-by-step guide for a smooth activation process.
 
